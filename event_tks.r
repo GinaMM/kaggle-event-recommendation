@@ -3,7 +3,6 @@
 ## Editor: Meadow + ess
 ## Meadow: Multilingual enhancement to gnu Emacs with ADvantages Over Windows
 
-
 ## Function Definitions begin
 
 ## init() probably needs 8GB or more of memory.
